@@ -1,1 +1,1 @@
-# awesomeian
+# Cool little collectible card game
