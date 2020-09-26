@@ -3,3 +3,17 @@
 	padding: 10% 0 0;
 	margin: auto;
 }
+
+h1{
+	position: center;
+}
+
+. form{
+	position: relative;
+	z-index: 1;
+	background: ffffff;
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+}
